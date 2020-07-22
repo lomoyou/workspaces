@@ -1,0 +1,11 @@
+2020-05-12 11:12:22.981 [Info] start http server listening :8000
+2020-05-12 13:24:49.848 [Error] table blog_auth is not existed
+2020-05-12 13:24:49.851 [Info] start http server listening :8000
+2020-05-12 13:31:19.484 [Info] start http server listening :8000
+2020-05-12 13:49:48.54 [Info] start http server listening :8000
+2020-05-12 13:54:04.359 [Info] err.Key:Username.Required., err.Message:Can not be empty
+2020-05-12 13:54:04.36 [Info] err.Key:Password.Required., err.Message:Can not be empty
+2020-05-12 13:54:57.015 [Info] err.Key:Username.Required., err.Message:Can not be empty
+2020-05-12 13:54:57.015 [Info] err.Key:Password.Required., err.Message:Can not be empty
+2020-05-12 13:55:18.214 [Info] err.Key:Username.Required., err.Message:Can not be empty
+2020-05-12 13:55:18.214 [Info] err.Key:Password.Required., err.Message:Can not be empty

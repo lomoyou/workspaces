@@ -1,0 +1,46 @@
+{{define  "login.html"}}
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <title>GoWebPrograming</title>
+        <style>
+            .red {
+                width: 400px;
+                height: 100px;
+                background-color: antiquewhite;
+            }
+            .green {
+                width: 400px;
+                height: 100px;
+                background-color: green;
+            }
+        </style>
+
+
+    </head>
+
+    <body>
+    <form action="/auth" method="POST" enctype="multipart/form-data">
+        <div class="red">
+            <label for="username", >用户名：</label>
+            <input type="text" username="username" value="sau sheong">
+        </div>
+        <div class="red">
+            <label for="password">密 码：</label>
+            <input type="password" password="password" value="123456">
+        </div>
+        <div  class="green">
+            <input type="submit" value="登录">
+        </div>
+
+
+    </form>
+    <script>alert('你在听吗？')</script>
+
+
+    </body>
+    </html>
+
+{{end}}

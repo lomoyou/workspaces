@@ -1,0 +1,181 @@
+{"level":"info","ts":"2020-05-12T14:03:16.252+0800","caller":"go_blog/main.go:40","msg":"start http server listening :8000"}
+{"level":"info","ts":"2020-05-12T14:03:50.403+0800","caller":"app/request.go:10","msg":"err.Key:Username.Required., err.Message:Can not be empty"}
+{"level":"info","ts":"2020-05-12T14:03:50.403+0800","caller":"app/request.go:10","msg":"err.Key:Password.Required., err.Message:Can not be empty"}
+{"level":"info","ts":"2020-05-12T14:17:16.128+0800","caller":"go_blog/main.go:40","msg":"start http server listening :8000"}
+{"level":"info","ts":"2020-05-12T14:17:20.483+0800","caller":"api/auth.go:27","msg":"user:, password:"}
+{"level":"info","ts":"2020-05-12T14:17:20.484+0800","caller":"app/request.go:10","msg":"err.Key:Username.Required., err.Message:Can not be empty"}
+{"level":"info","ts":"2020-05-12T14:17:20.484+0800","caller":"app/request.go:10","msg":"err.Key:Password.Required., err.Message:Can not be empty"}
+{"level":"info","ts":"2020-05-12T14:18:34.990+0800","caller":"api/auth.go:27","msg":"user:, password:"}
+{"level":"info","ts":"2020-05-12T14:18:34.990+0800","caller":"app/request.go:10","msg":"err.Key:Username.Required., err.Message:Can not be empty"}
+{"level":"info","ts":"2020-05-12T14:18:34.990+0800","caller":"app/request.go:10","msg":"err.Key:Password.Required., err.Message:Can not be empty"}
+{"level":"info","ts":"2020-05-12T14:20:01.308+0800","caller":"api/auth.go:27","msg":"user:, password:"}
+{"level":"info","ts":"2020-05-12T14:20:01.308+0800","caller":"app/request.go:10","msg":"err.Key:Username.Required., err.Message:Can not be empty"}
+{"level":"info","ts":"2020-05-12T14:20:01.308+0800","caller":"app/request.go:10","msg":"err.Key:Password.Required., err.Message:Can not be empty"}
+{"level":"info","ts":"2020-05-12T14:23:56.498+0800","caller":"go_blog/main.go:40","msg":"start http server listening :8000"}
+{"level":"info","ts":"2020-05-12T14:24:02.671+0800","caller":"api/auth.go:24","msg":"c.params:[]"}
+{"level":"info","ts":"2020-05-12T14:24:02.671+0800","caller":"api/auth.go:27","msg":"username:, password:"}
+{"level":"info","ts":"2020-05-12T14:24:02.671+0800","caller":"app/request.go:10","msg":"err.Key:Username.Required., err.Message:Can not be empty"}
+{"level":"info","ts":"2020-05-12T14:24:02.671+0800","caller":"app/request.go:10","msg":"err.Key:Password.Required., err.Message:Can not be empty"}
+{"level":"info","ts":"2020-05-12T14:32:15.374+0800","caller":"go_blog/main.go:40","msg":"start http server listening :8000"}
+{"level":"info","ts":"2020-05-12T14:32:20.987+0800","caller":"api/auth.go:24","msg":"c.params:&{POST /auth?username=root&password=123456 HTTP/1.1 1 1 map[Accept:[*/*] Accept-Encoding:[gzip, deflate] Cache-Control:[no-cache] Connection:[keep-alive] Content-Length:[0] Postman-Token:[998f6de4-6c42-48bc-8c03-c381255a908a] User-Agent:[PostmanRuntime/7.15.0]] {} <nil> 0 [] false 127.0.0.1:8000 map[] map[] <nil> map[] 127.0.0.1:57566 /auth?username=root&password=123456 <nil> <nil> <nil> 0xc00002a4c0}"}
+{"level":"info","ts":"2020-05-12T14:32:20.987+0800","caller":"api/auth.go:27","msg":"username:, password:"}
+{"level":"info","ts":"2020-05-12T14:32:20.987+0800","caller":"app/request.go:10","msg":"err.Key:Username.Required., err.Message:Can not be empty"}
+{"level":"info","ts":"2020-05-12T14:32:20.987+0800","caller":"app/request.go:10","msg":"err.Key:Password.Required., err.Message:Can not be empty"}
+{"level":"info","ts":"2020-05-12T14:34:04.727+0800","caller":"api/auth.go:24","msg":"c.params:&{POST /auth?username=root&password=123456 HTTP/1.1 1 1 map[Accept:[*/*] Accept-Encoding:[gzip, deflate] Cache-Control:[no-cache] Connection:[keep-alive] Content-Length:[0] Postman-Token:[7ace2eb7-2503-44eb-9ba0-cd33764e7dd4] User-Agent:[PostmanRuntime/7.15.0]] {} <nil> 0 [] false 127.0.0.1:8000 map[] map[] <nil> map[] 127.0.0.1:57575 /auth?username=root&password=123456 <nil> <nil> <nil> 0xc00028da00}"}
+{"level":"info","ts":"2020-05-12T14:34:04.727+0800","caller":"api/auth.go:27","msg":"username:, password:"}
+{"level":"info","ts":"2020-05-12T14:34:04.727+0800","caller":"app/request.go:10","msg":"err.Key:Username.Required., err.Message:Can not be empty"}
+{"level":"info","ts":"2020-05-12T14:34:04.727+0800","caller":"app/request.go:10","msg":"err.Key:Password.Required., err.Message:Can not be empty"}
+{"level":"info","ts":"2020-05-12T14:36:07.593+0800","caller":"api/auth.go:24","msg":"c.params:&{POST /auth?username=root&password=123456 HTTP/1.1 1 1 map[Accept:[*/*] Accept-Encoding:[gzip, deflate] Cache-Control:[no-cache] Connection:[keep-alive] Content-Length:[0] Content-Type:[application/x-www-form-urlencoded] Postman-Token:[6d157128-bc69-4fa8-a7c1-14e69467b5e6] User-Agent:[PostmanRuntime/7.15.0]] {} <nil> 0 [] false 127.0.0.1:8000 map[] map[] <nil> map[] 127.0.0.1:57599 /auth?username=root&password=123456 <nil> <nil> <nil> 0xc00028c140}"}
+{"level":"info","ts":"2020-05-12T14:36:07.593+0800","caller":"api/auth.go:27","msg":"username:, password:"}
+{"level":"info","ts":"2020-05-12T14:36:07.593+0800","caller":"app/request.go:10","msg":"err.Key:Username.Required., err.Message:Can not be empty"}
+{"level":"info","ts":"2020-05-12T14:36:07.593+0800","caller":"app/request.go:10","msg":"err.Key:Password.Required., err.Message:Can not be empty"}
+{"level":"info","ts":"2020-05-12T14:44:33.046+0800","caller":"api/auth.go:24","msg":"c.params:&{POST /auth HTTP/1.1 1 1 map[Accept:[*/*] Content-Length:[31] Content-Type:[application/x-www-form-urlencoded] User-Agent:[curl/7.58.0]] 0xc00002a080 <nil> 31 [] false 192.168.0.104:8000 map[] map[] <nil> map[] 192.168.0.104:57701 /auth <nil> <nil> <nil> 0xc00002a1c0}"}
+{"level":"info","ts":"2020-05-12T14:44:33.046+0800","caller":"api/auth.go:27","msg":"username:geektutu, password:1234"}
+{"level":"info","ts":"2020-05-12T14:45:27.767+0800","caller":"api/auth.go:24","msg":"c.params:&{POST /auth HTTP/1.1 1 1 map[Accept:[*/*] Content-Length:[27] Content-Type:[application/x-www-form-urlencoded] User-Agent:[curl/7.58.0]] 0xc00028c2c0 <nil> 27 [] false 192.168.0.104:8000 map[] map[] <nil> map[] 192.168.0.104:57709 /auth <nil> <nil> <nil> 0xc00028c300}"}
+{"level":"info","ts":"2020-05-12T14:45:27.767+0800","caller":"api/auth.go:27","msg":"username:root, password:1234"}
+{"level":"info","ts":"2020-05-12T14:45:42.394+0800","caller":"api/auth.go:24","msg":"c.params:&{POST /auth HTTP/1.1 1 1 map[Accept:[*/*] Content-Length:[29] Content-Type:[application/x-www-form-urlencoded] User-Agent:[curl/7.58.0]] 0xc0002511c0 <nil> 29 [] false 192.168.0.104:8000 map[] map[] <nil> map[] 192.168.0.104:57710 /auth <nil> <nil> <nil> 0xc000251200}"}
+{"level":"info","ts":"2020-05-12T14:45:42.394+0800","caller":"api/auth.go:27","msg":"username:root, password:123456"}
+{"level":"info","ts":"2020-05-12T14:47:35.589+0800","caller":"go_blog/main.go:40","msg":"start http server listening :8000"}
+{"level":"info","ts":"2020-05-12T14:48:16.779+0800","caller":"api/auth.go:24","msg":"c.params:&{POST /auth HTTP/1.1 1 1 map[Accept:[*/*] Content-Length:[29] Content-Type:[application/x-www-form-urlencoded] User-Agent:[curl/7.58.0]] 0xc00002a4c0 <nil> 29 [] false 192.168.0.104:8000 map[] map[] <nil> map[] 192.168.0.104:57729 /auth <nil> <nil> <nil> 0xc00002a500}"}
+{"level":"info","ts":"2020-05-12T14:48:16.779+0800","caller":"api/auth.go:27","msg":"username:root, password:123456"}
+{"level":"info","ts":"2020-05-12T14:51:18.199+0800","caller":"go_blog/main.go:40","msg":"start http server listening :8000"}
+{"level":"error","ts":"2020-05-12T14:51:23.809+0800","caller":"api/auth.go:39","msg":"authService.Check failed, err:sql: database is closed"}
+{"level":"info","ts":"2020-05-12T14:52:27.087+0800","caller":"go_blog/main.go:40","msg":"start http server listening :8000"}
+{"level":"error","ts":"2020-05-12T14:52:43.671+0800","caller":"api/auth.go:39","msg":"authService.Check failed, err:pq: 关系 \"auth\" 不存在"}
+{"level":"info","ts":"2020-05-12T15:13:12.706+0800","caller":"models/models.go:46","msg":"table:name:0x9e2bc0"}
+{"level":"info","ts":"2020-05-12T15:13:12.723+0800","caller":"go_blog/main.go:40","msg":"start http server listening :8000"}
+{"level":"error","ts":"2020-05-12T15:13:25.804+0800","caller":"api/auth.go:39","msg":"authService.Check failed, err:pq: 关系 \"auth\" 不存在"}
+{"level":"info","ts":"2020-05-12T15:19:55.298+0800","caller":"go_blog/main.go:40","msg":"start http server listening :8000"}
+{"level":"info","ts":"2020-05-12T15:20:36.317+0800","caller":"app/request.go:10","msg":"err.Key:Username.Required., err.Message:Can not be empty"}
+{"level":"info","ts":"2020-05-12T15:20:36.317+0800","caller":"app/request.go:10","msg":"err.Key:Password.Required., err.Message:Can not be empty"}
+{"level":"info","ts":"2020-05-12T15:23:08.499+0800","caller":"app/request.go:10","msg":"err.Key:Username.Required., err.Message:Can not be empty"}
+{"level":"info","ts":"2020-05-12T15:23:08.499+0800","caller":"app/request.go:10","msg":"err.Key:Password.Required., err.Message:Can not be empty"}
+{"level":"info","ts":"2020-05-12T15:23:20.015+0800","caller":"app/request.go:10","msg":"err.Key:Username.Required., err.Message:Can not be empty"}
+{"level":"info","ts":"2020-05-12T15:23:20.015+0800","caller":"app/request.go:10","msg":"err.Key:Password.Required., err.Message:Can not be empty"}
+{"level":"info","ts":"2020-05-12T15:27:42.821+0800","caller":"app/request.go:10","msg":"err.Key:id, err.Message:Minimum is 1"}
+{"level":"info","ts":"2020-05-12T15:27:44.441+0800","caller":"app/request.go:10","msg":"err.Key:id, err.Message:Minimum is 1"}
+{"level":"info","ts":"2020-05-12T15:29:09.553+0800","caller":"app/request.go:10","msg":"err.Key:id, err.Message:Minimum is 1"}
+{"level":"info","ts":"2020-05-12T15:31:02.927+0800","caller":"app/request.go:10","msg":"err.Key:id, err.Message:Minimum is 1"}
+{"level":"info","ts":"2020-05-12T15:31:23.710+0800","caller":"app/request.go:10","msg":"err.Key:id, err.Message:Minimum is 1"}
+{"level":"info","ts":"2020-05-12T15:37:41.969+0800","caller":"app/request.go:10","msg":"err.Key:id, err.Message:Minimum is 1"}
+{"level":"info","ts":"2020-05-12T15:37:50.931+0800","caller":"go_blog/main.go:40","msg":"start http server listening :8000"}
+{"level":"info","ts":"2020-05-12T15:37:56.890+0800","caller":"v1/article.go:29","msg":"id=0"}
+{"level":"info","ts":"2020-05-12T15:37:56.890+0800","caller":"app/request.go:10","msg":"err.Key:id, err.Message:Minimum is 1"}
+{"level":"info","ts":"2020-05-12T15:38:59.205+0800","caller":"v1/article.go:29","msg":"id=0"}
+{"level":"info","ts":"2020-05-12T15:38:59.205+0800","caller":"app/request.go:10","msg":"err.Key:id, err.Message:Minimum is 1"}
+{"level":"error","ts":"2020-05-21T10:11:16.763+0800","caller":"models/models.go:31","msg":"database connected is failed, err:dial tcp 127.0.0.1:5432: connectex: No connection could be made because the target machine actively refused it."}
+{"level":"error","ts":"2020-05-21T10:11:16.803+0800","caller":"models/models.go:35","msg":"table blog_auth is not existed"}
+{"level":"error","ts":"2020-05-21T10:11:16.803+0800","caller":"models/models.go:40","msg":"models.setup err:dial tcp 127.0.0.1:5432: connectex: No connection could be made because the target machine actively refused it."}
+{"level":"info","ts":"2020-05-21T10:11:16.809+0800","caller":"go_blog/main.go:40","msg":"start http server listening :8000"}
+{"level":"info","ts":"2020-05-21T10:11:43.933+0800","caller":"go_blog/main.go:40","msg":"start http server listening :8000"}
+{"level":"info","ts":"2020-05-22T17:10:55.373+0800","caller":"go_blog/main.go:40","msg":"start http server listening :8000"}
+{"level":"error","ts":"2020-05-25T10:34:16.352+0800","caller":"models/models.go:32","msg":"database connected is failed, err:dial tcp 127.0.0.1:5432: connectex: No connection could be made because the target machine actively refused it."}
+{"level":"error","ts":"2020-05-25T10:34:16.397+0800","caller":"models/models.go:36","msg":"table blog_auth is not existed"}
+{"level":"error","ts":"2020-05-25T10:34:16.397+0800","caller":"models/models.go:40","msg":"models.setup err:dial tcp 127.0.0.1:5432: connectex: No connection could be made because the target machine actively refused it."}
+{"level":"info","ts":"2020-05-25T10:34:16.402+0800","caller":"go_blog/main.go:40","msg":"start http server listening :8000"}
+{"level":"info","ts":"2020-05-25T10:37:02.376+0800","caller":"app/request.go:10","msg":"err.Key:Username.Required., err.Message:Can not be empty"}
+{"level":"info","ts":"2020-05-25T10:37:02.377+0800","caller":"app/request.go:10","msg":"err.Key:Password.Required., err.Message:Can not be empty"}
+{"level":"error","ts":"2020-05-25T10:38:48.312+0800","caller":"models/models.go:32","msg":"database connected is failed, err:dial tcp 127.0.0.1:5432: connectex: No connection could be made because the target machine actively refused it."}
+{"level":"error","ts":"2020-05-25T10:38:48.327+0800","caller":"models/models.go:36","msg":"table blog_auth is not existed"}
+{"level":"error","ts":"2020-05-25T10:38:48.327+0800","caller":"models/models.go:40","msg":"models.setup err:dial tcp 127.0.0.1:5432: connectex: No connection could be made because the target machine actively refused it."}
+{"level":"info","ts":"2020-05-25T10:38:48.331+0800","caller":"go_blog/main.go:40","msg":"start http server listening :8000"}
+{"level":"error","ts":"2020-05-25T11:01:53.907+0800","caller":"models/models.go:32","msg":"database connected is failed, err:dial tcp 127.0.0.1:5432: connectex: No connection could be made because the target machine actively refused it."}
+{"level":"error","ts":"2020-05-25T11:01:53.921+0800","caller":"models/models.go:36","msg":"table blog_auth is not existed"}
+{"level":"error","ts":"2020-05-25T11:01:53.921+0800","caller":"models/models.go:40","msg":"models.setup err:dial tcp 127.0.0.1:5432: connectex: No connection could be made because the target machine actively refused it."}
+{"level":"info","ts":"2020-05-25T11:01:53.925+0800","caller":"go_blog/main.go:40","msg":"start http server listening :8000"}
+{"level":"error","ts":"2020-06-19T15:22:32.996+0800","caller":"models/models.go:32","msg":"database connected is failed, err:dial tcp 127.0.0.1:5432: connectex: No connection could be made because the target machine actively refused it."}
+{"level":"error","ts":"2020-06-19T15:22:33.011+0800","caller":"models/models.go:36","msg":"table blog_auth is not existed"}
+{"level":"error","ts":"2020-06-19T15:22:33.011+0800","caller":"models/models.go:40","msg":"models.setup err:dial tcp 127.0.0.1:5432: connectex: No connection could be made because the target machine actively refused it."}
+{"level":"info","ts":"2020-06-19T15:22:33.025+0800","caller":"go_blog/main.go:40","msg":"start http server listening :8000"}
+{"level":"error","ts":"2020-06-19T15:27:58.585+0800","caller":"models/models.go:32","msg":"database connected is failed, err:dial tcp 127.0.0.1:5432: connectex: No connection could be made because the target machine actively refused it."}
+{"level":"error","ts":"2020-06-19T15:27:58.599+0800","caller":"models/models.go:36","msg":"table blog_auth is not existed"}
+{"level":"error","ts":"2020-06-19T15:27:58.599+0800","caller":"models/models.go:40","msg":"models.setup err:dial tcp 127.0.0.1:5432: connectex: No connection could be made because the target machine actively refused it."}
+{"level":"info","ts":"2020-06-19T15:27:58.605+0800","caller":"go_blog/main.go:40","msg":"start http server listening :8000"}
+{"level":"error","ts":"2020-06-23T09:20:05.411+0800","caller":"models/models.go:32","msg":"database connected is failed, err:dial tcp 127.0.0.1:5432: connectex: No connection could be made because the target machine actively refused it."}
+{"level":"error","ts":"2020-06-23T09:20:05.450+0800","caller":"models/models.go:36","msg":"table blog_auth is not existed"}
+{"level":"error","ts":"2020-06-23T09:20:05.450+0800","caller":"models/models.go:40","msg":"models.setup err:dial tcp 127.0.0.1:5432: connectex: No connection could be made because the target machine actively refused it."}
+{"level":"info","ts":"2020-06-23T09:20:05.455+0800","caller":"go_blog/main.go:40","msg":"start http server listening :8000"}
+{"level":"error","ts":"2020-06-23T09:26:19.733+0800","caller":"models/models.go:32","msg":"database connected is failed, err:dial tcp 127.0.0.1:5432: connectex: No connection could be made because the target machine actively refused it."}
+{"level":"error","ts":"2020-06-23T09:26:19.751+0800","caller":"models/models.go:36","msg":"table blog_auth is not existed"}
+{"level":"error","ts":"2020-06-23T09:26:19.751+0800","caller":"models/models.go:40","msg":"models.setup err:dial tcp 127.0.0.1:5432: connectex: No connection could be made because the target machine actively refused it."}
+{"level":"info","ts":"2020-06-23T09:26:19.756+0800","caller":"go_blog/main.go:40","msg":"start http server listening :8000"}
+{"level":"info","ts":"2020-06-23T10:42:44.395+0800","caller":"go_blog/main.go:40","msg":"start http server listening :8000"}
+{"level":"info","ts":"2020-06-23T11:04:55.966+0800","caller":"app/request.go:10","msg":"err.Key:Username.Required., err.Message:Can not be empty"}
+{"level":"info","ts":"2020-06-23T11:04:55.966+0800","caller":"app/request.go:10","msg":"err.Key:Password.Required., err.Message:Can not be empty"}
+{"level":"info","ts":"2020-06-23T11:06:22.524+0800","caller":"app/request.go:10","msg":"err.Key:Username.Required., err.Message:Can not be empty"}
+{"level":"info","ts":"2020-06-23T11:06:22.525+0800","caller":"app/request.go:10","msg":"err.Key:Password.Required., err.Message:Can not be empty"}
+{"level":"info","ts":"2020-06-23T11:08:21.761+0800","caller":"app/request.go:10","msg":"err.Key:Username.Required., err.Message:Can not be empty"}
+{"level":"info","ts":"2020-06-23T11:08:21.762+0800","caller":"app/request.go:10","msg":"err.Key:Password.Required., err.Message:Can not be empty"}
+{"level":"info","ts":"2020-06-23T11:10:46.389+0800","caller":"go_blog/main.go:40","msg":"start http server listening :8000"}
+{"level":"info","ts":"2020-06-23T11:10:49.351+0800","caller":"app/request.go:10","msg":"err.Key:Username.Required., err.Message:Can not be empty"}
+{"level":"info","ts":"2020-06-23T11:10:49.351+0800","caller":"app/request.go:10","msg":"err.Key:Password.Required., err.Message:Can not be empty"}
+{"level":"error","ts":"2020-06-23T11:10:49.351+0800","caller":"api/auth.go:30","msg":"valiad.Errors:[Can not be empty Can not be empty]"}
+{"level":"info","ts":"2020-06-23T11:12:07.697+0800","caller":"go_blog/main.go:40","msg":"start http server listening :8000"}
+{"level":"info","ts":"2020-06-23T11:12:08.665+0800","caller":"api/auth.go:24","msg":"username:"}
+{"level":"info","ts":"2020-06-23T11:12:08.665+0800","caller":"api/auth.go:25","msg":"password:"}
+{"level":"info","ts":"2020-06-23T11:12:08.665+0800","caller":"app/request.go:10","msg":"err.Key:Username.Required., err.Message:Can not be empty"}
+{"level":"info","ts":"2020-06-23T11:12:08.665+0800","caller":"app/request.go:10","msg":"err.Key:Password.Required., err.Message:Can not be empty"}
+{"level":"error","ts":"2020-06-23T11:12:08.665+0800","caller":"api/auth.go:32","msg":"valiad.Errors:[Can not be empty Can not be empty]"}
+{"level":"info","ts":"2020-06-23T11:13:48.351+0800","caller":"api/auth.go:24","msg":"username:"}
+{"level":"info","ts":"2020-06-23T11:13:48.351+0800","caller":"api/auth.go:25","msg":"password:"}
+{"level":"info","ts":"2020-06-23T11:13:48.351+0800","caller":"app/request.go:10","msg":"err.Key:Username.Required., err.Message:Can not be empty"}
+{"level":"info","ts":"2020-06-23T11:13:48.351+0800","caller":"app/request.go:10","msg":"err.Key:Password.Required., err.Message:Can not be empty"}
+{"level":"error","ts":"2020-06-23T11:13:48.351+0800","caller":"api/auth.go:32","msg":"valiad.Errors:[Can not be empty Can not be empty]"}
+{"level":"info","ts":"2020-06-23T11:18:58.704+0800","caller":"go_blog/main.go:40","msg":"start http server listening :8000"}
+{"level":"info","ts":"2020-06-23T11:19:26.054+0800","caller":"api/auth.go:24","msg":"name:root"}
+{"level":"info","ts":"2020-06-23T11:19:26.054+0800","caller":"api/auth.go:27","msg":"username:"}
+{"level":"info","ts":"2020-06-23T11:19:26.054+0800","caller":"api/auth.go:28","msg":"password:"}
+{"level":"info","ts":"2020-06-23T11:19:26.054+0800","caller":"app/request.go:10","msg":"err.Key:Username.Required., err.Message:Can not be empty"}
+{"level":"info","ts":"2020-06-23T11:19:26.054+0800","caller":"app/request.go:10","msg":"err.Key:Password.Required., err.Message:Can not be empty"}
+{"level":"error","ts":"2020-06-23T11:19:26.054+0800","caller":"api/auth.go:35","msg":"valiad.Errors:[Can not be empty Can not be empty]"}
+{"level":"info","ts":"2020-06-23T11:21:36.885+0800","caller":"go_blog/main.go:40","msg":"start http server listening :8000"}
+{"level":"info","ts":"2020-06-23T11:27:30.570+0800","caller":"app/request.go:10","msg":"err.Key:TagID.Required., err.Message:Can not be empty"}
+{"level":"info","ts":"2020-06-23T11:27:30.570+0800","caller":"app/request.go:10","msg":"err.Key:TagID.Min., err.Message:Minimum is 1"}
+{"level":"info","ts":"2020-06-23T11:27:30.570+0800","caller":"app/request.go:10","msg":"err.Key:Title.Required., err.Message:Can not be empty"}
+{"level":"info","ts":"2020-06-23T11:27:30.570+0800","caller":"app/request.go:10","msg":"err.Key:Desc.Required., err.Message:Can not be empty"}
+{"level":"info","ts":"2020-06-23T11:27:30.570+0800","caller":"app/request.go:10","msg":"err.Key:Content.Required., err.Message:Can not be empty"}
+{"level":"info","ts":"2020-06-23T11:27:30.570+0800","caller":"app/request.go:10","msg":"err.Key:CreatedBy.Required., err.Message:Can not be empty"}
+{"level":"info","ts":"2020-06-23T11:27:30.570+0800","caller":"app/request.go:10","msg":"err.Key:CoverImageUrl.Required., err.Message:Can not be empty"}
+{"level":"info","ts":"2020-06-23T12:00:00.324+0800","caller":"go_blog/main.go:40","msg":"start http server listening :8000"}
+{"level":"info","ts":"2020-06-23T12:01:03.212+0800","caller":"go_blog/main.go:40","msg":"start http server listening :8000"}
+{"level":"info","ts":"2020-06-23T12:01:06.215+0800","caller":"app/request.go:10","msg":"err.Key:Username.Required., err.Message:Can not be empty"}
+{"level":"info","ts":"2020-06-23T12:01:06.215+0800","caller":"app/request.go:10","msg":"err.Key:Password.Required., err.Message:Can not be empty"}
+{"level":"error","ts":"2020-06-23T12:01:06.215+0800","caller":"api/auth.go:31","msg":"valiad.Errors:[Can not be empty Can not be empty]"}
+{"level":"info","ts":"2020-06-23T13:21:36.454+0800","caller":"go_blog/main.go:40","msg":"start http server listening :8000"}
+{"level":"info","ts":"2020-06-23T14:03:58.643+0800","caller":"app/request.go:10","msg":"err.Key:Username.Required., err.Message:Can not be empty"}
+{"level":"info","ts":"2020-06-23T14:03:58.643+0800","caller":"app/request.go:10","msg":"err.Key:Password.Required., err.Message:Can not be empty"}
+{"level":"error","ts":"2020-06-23T14:03:58.643+0800","caller":"api/auth.go:31","msg":"valiad.Errors:[Can not be empty Can not be empty]"}
+{"level":"error","ts":"2020-06-24T08:44:32.330+0800","caller":"models/models.go:32","msg":"database connected is failed, err:dial tcp 127.0.0.1:5432: connectex: No connection could be made because the target machine actively refused it."}
+{"level":"error","ts":"2020-06-24T08:44:32.348+0800","caller":"models/models.go:36","msg":"table blog_auth is not existed"}
+{"level":"error","ts":"2020-06-24T08:44:32.348+0800","caller":"models/models.go:40","msg":"models.setup err:dial tcp 127.0.0.1:5432: connectex: No connection could be made because the target machine actively refused it."}
+{"level":"info","ts":"2020-06-24T08:44:32.355+0800","caller":"go_blog/main.go:40","msg":"start http server listening :8000"}
+{"level":"info","ts":"2020-06-24T08:44:32.495+0800","caller":"app/request.go:10","msg":"err.Key:Username.Required., err.Message:Can not be empty"}
+{"level":"info","ts":"2020-06-24T08:44:32.495+0800","caller":"app/request.go:10","msg":"err.Key:Password.Required., err.Message:Can not be empty"}
+{"level":"error","ts":"2020-06-24T08:44:32.495+0800","caller":"api/auth.go:31","msg":"valiad.Errors:[Can not be empty Can not be empty]"}
+{"level":"error","ts":"2020-06-24T08:45:33.078+0800","caller":"api/auth.go:39","msg":"authService.Check failed, err:sql: database is closed"}
+{"level":"error","ts":"2020-06-24T08:46:16.563+0800","caller":"api/auth.go:39","msg":"authService.Check failed, err:sql: database is closed"}
+{"level":"info","ts":"2020-06-24T08:46:25.791+0800","caller":"go_blog/main.go:40","msg":"start http server listening :8000"}
+{"level":"info","ts":"2020-06-24T08:47:05.074+0800","caller":"app/request.go:10","msg":"err.Key:Username.Required., err.Message:Can not be empty"}
+{"level":"info","ts":"2020-06-24T08:47:05.075+0800","caller":"app/request.go:10","msg":"err.Key:Password.Required., err.Message:Can not be empty"}
+{"level":"error","ts":"2020-06-24T08:47:05.075+0800","caller":"api/auth.go:31","msg":"valiad.Errors:[Can not be empty Can not be empty]"}
+{"level":"error","ts":"2020-06-28T08:44:30.236+0800","caller":"models/models.go:32","msg":"database connected is failed, err:dial tcp 127.0.0.1:5432: connectex: No connection could be made because the target machine actively refused it."}
+{"level":"error","ts":"2020-06-28T08:44:30.252+0800","caller":"models/models.go:36","msg":"table blog_auth is not existed"}
+{"level":"error","ts":"2020-06-28T08:44:30.252+0800","caller":"models/models.go:40","msg":"models.setup err:dial tcp 127.0.0.1:5432: connectex: No connection could be made because the target machine actively refused it."}
+{"level":"info","ts":"2020-06-28T08:44:30.258+0800","caller":"go_blog/main.go:40","msg":"start http server listening :8000"}
+{"level":"error","ts":"2020-06-28T08:46:41.424+0800","caller":"api/auth.go:39","msg":"authService.Check failed, err:sql: database is closed"}
+{"level":"error","ts":"2020-06-28T08:46:55.479+0800","caller":"api/auth.go:39","msg":"authService.Check failed, err:sql: database is closed"}
+{"level":"error","ts":"2020-06-28T08:47:14.346+0800","caller":"api/auth.go:39","msg":"authService.Check failed, err:sql: database is closed"}
+{"level":"info","ts":"2020-06-28T08:47:50.301+0800","caller":"go_blog/main.go:40","msg":"start http server listening :8000"}
+{"level":"info","ts":"2020-06-28T17:33:37.604+0800","caller":"go_blog/main.go:40","msg":"start http server listening :8000"}
+{"level":"info","ts":"2020-06-28T17:37:00.548+0800","caller":"go_blog/main.go:40","msg":"start http server listening :8000"}
+{"level":"info","ts":"2020-06-28T17:40:19.907+0800","caller":"go_blog/main.go:40","msg":"start http server listening :8000"}
+{"level":"info","ts":"2020-06-28T17:41:23.432+0800","caller":"go_blog/main.go:40","msg":"start http server listening :8000"}
+{"level":"info","ts":"2020-06-28T17:41:26.592+0800","caller":"app/request.go:10","msg":"err.Key:Username.Required., err.Message:Can not be empty"}
+{"level":"info","ts":"2020-06-28T17:41:26.592+0800","caller":"app/request.go:10","msg":"err.Key:Password.Required., err.Message:Can not be empty"}
+{"level":"error","ts":"2020-06-28T17:41:26.592+0800","caller":"api/auth.go:31","msg":"valiad.Errors:[Can not be empty Can not be empty]"}
+{"level":"info","ts":"2020-06-28T17:43:14.369+0800","caller":"app/request.go:10","msg":"err.Key:Username.Required., err.Message:Can not be empty"}
+{"level":"info","ts":"2020-06-28T17:43:14.369+0800","caller":"app/request.go:10","msg":"err.Key:Password.Required., err.Message:Can not be empty"}
+{"level":"error","ts":"2020-06-28T17:43:14.369+0800","caller":"api/auth.go:31","msg":"valiad.Errors:[Can not be empty Can not be empty]"}
+{"level":"info","ts":"2020-06-28T17:44:44.157+0800","caller":"app/request.go:10","msg":"err.Key:Username.Required., err.Message:Can not be empty"}
+{"level":"info","ts":"2020-06-28T17:44:44.157+0800","caller":"app/request.go:10","msg":"err.Key:Password.Required., err.Message:Can not be empty"}
+{"level":"error","ts":"2020-06-28T17:44:44.157+0800","caller":"api/auth.go:31","msg":"valiad.Errors:[Can not be empty Can not be empty]"}

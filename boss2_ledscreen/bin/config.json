@@ -1,0 +1,26 @@
+{
+  "ledControlerA": {
+    "controlIP": "192.168.0.199",
+    "controlPort": 5005,
+    "ledwidth": 48,
+    "ledheight": 16,
+    "counterName": "测试计数器1",
+    "texthead": "余:",
+    "leddismode": "move",
+    "textColor": "yellow",
+    "timeInterval": 1
+  },
+  "ledControlerB": {
+    "controlIP": "192.168.0.24",
+    "controlPort": 5005,
+    "ledwidth": 48,
+    "ledheight": 16,
+    "counterName": "测试计数器2",
+    "texthead": "剩余车位数:",
+    "leddismode": "move",
+    "textColor": "green",
+    "timeInterval": 1
+  },
+  "turnledControlB": true,
+  "webAddr":"http://192.168.0.189:8789/BossIFService.svc/gateway.do"
+}
